@@ -2,12 +2,12 @@
 
 I'm Divyam
 
-- 🔭 I’m currently working on Game Development
-- 🌱 I’m currently learning TypeScript, React and ThreeJS
+- 🔭 I code in C/C++, TypeScript/JavaScript, Python, Go
+- 🌱 I’m currently learning Go
 - 💬 Ask me about anything!
 - 😄 Pronouns: he/him/his
 - 📚 When I am free, I read mangas and watch anime
-- ⚡ Fun fact: My favourite anime right now is Steins;Gate
+- ⚡ Fun fact: Currently I am experimenting with WebAssembly
 <div align="center">
 
   [![OS:Manjaro](https://img.shields.io/badge/OS-Manjaro-green?style=flat-square&logo=Manjaro)](https://manjaro.org)
